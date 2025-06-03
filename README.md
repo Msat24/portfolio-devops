@@ -57,7 +57,7 @@ Je documente chaque semaine ce que j’ai appris, pratiqué ou corrigé.
 ## 📬 Me contacter
 
 - GitHub : [@Msat24](https://github.com/Msat24)
-- Email : *(à compléter si souhaité)*
+- Email : moussatall6191@gmail.com
 
 ---
 
